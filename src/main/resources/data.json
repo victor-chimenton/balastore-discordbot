@@ -1,0 +1,17 @@
+{
+  "categories": [
+    {
+      "name": "Orçamentos",
+      "description": "Área para solicitar orçamentos personalizados.",
+      "products": []
+    },
+    {
+      "name": "Compras",
+      "description": "Produtos disponíveis para compra imediata.",
+      "products": [
+        { "name": "Produto A", "price": 100.0, "description": "Produto A." },
+        { "name": "Produto B", "price": 200.0, "description": "Produto B." }
+      ]
+    }
+  ]
+}

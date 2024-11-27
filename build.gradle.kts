@@ -13,4 +13,8 @@ dependencies {
     implementation("com.mercadopago:sdk-java:2.1.29")
     implementation("com.google.zxing:core:3.5.3")
     implementation("com.google.zxing:javase:3.5.3")
+    implementation("com.fasterxml.jackson.core:jackson-databind:2.8.9")
+
+    compileOnly("org.projectlombok:lombok:1.18.36")
+    annotationProcessor("org.projectlombok:lombok:1.18.36")
 }
